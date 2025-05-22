@@ -25,7 +25,7 @@ I'm a backend and automation enthusiast working with Linux-based embedded system
 
 
 
-https://raw.githubusercontent.com/SK2-airfi/SK2-airfi/output/snake.svg
+<img src="https://raw.githubusercontent.com/SK2-airfi/SK2-airfi/output/snake.svg" alt="Snake animation" />
 
 ### Badges
 
