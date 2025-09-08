@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-I'm a backend and automation enthusiast working with Linux-based embedded systems. Currently at AirFi, I'm building scripts and tooling for managing infotainment devices, firmware updates, and automating operational processes using Bash, Python, and Google Apps Script
+I'm a backend and automation enthusiast working with Linux-based embedded systems. Currently at AirFi, I'm building scripts and tooling for managing infotainment devices, firmware updates, and automating operational processes using Bash, Python, Go and Google Apps Script
 
 * 🌍  I'm based in Gurugram
 * 🧠  I'm learning C++ , Embeded Systems
