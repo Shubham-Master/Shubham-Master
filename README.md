@@ -26,7 +26,11 @@ I'm a backend and automation enthusiast working with Linux-based embedded system
 
 
 
-<img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/output/pacman-contribution-graph.svg">
+</picture>
 
 ### Badges
 
