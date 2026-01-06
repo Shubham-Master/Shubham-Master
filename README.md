@@ -36,7 +36,7 @@ Currently at AirFi, I’m building tooling for managing infotainment devices, fi
 <b>My GitHub Stats</b>
 
 
-<a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api?username=Shubham-Master&show_icons=true&theme=merko" alt="Shubham-Master's GitHub stats" /></a>
+<a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api?username=Shubham-Master&show_icons=true&theme=cobalt" alt="Shubham-Master's GitHub stats" /></a>
 
 <a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Master&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
