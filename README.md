@@ -38,6 +38,6 @@ Currently at AirFi, I’m building tooling for managing infotainment devices, fi
 
 <a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api?username=Shubham-Master&show_icons=true&theme=radical" alt="Shubham-Master's GitHub stats" /></a>
 
-<a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Master&show_icons=true&theme=radical" /></a>
+<a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Master&show_icons=true&theme=onedark" /></a>
 
 <a href="https://github.com/Shubham-Master" align="left"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
