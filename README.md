@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-I’m a backend and automation enthusiast working with Linux-based embedded systems.
-Currently at SingleStore, I’m building tooling for managing infotainment devices, firmware updates, multi-cloud workflows, and automating operational processes using Bash, Python, Go, and TypeScript.
+I’m a backend and automation enthusiast working with Linux-based embedded systems. I’m building tooling for managing infotainment devices, firmware updates, multi-cloud workflows, and automating operational processes using Bash, Python, Go, and TypeScript.
 	
  	•	🌍  I’m based in Gurugram
 	•	🧠  I’m learning C++, Embedded Systems, and deeper Cloud Architecture
