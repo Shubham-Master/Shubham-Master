@@ -7,7 +7,7 @@ Cloud Platform Engineer
 I’m a backend and automation enthusiast working with Linux-based embedded systems. I’m building tooling for managing infotainment devices, firmware updates, multi-cloud workflows, and automating operational processes using Bash, Python, Go, and TypeScript.
 	
  	•	🌍  I’m based in Gurugram
-	•	🧠  I’m learning C++, Embedded Systems, and deeper Cloud Architecture
+	•	🧠  I’m learning C++, Embedded Systems, deeper Cloud Architecture & AI-Ops
 	•	🤝  I’m open to collaborating on Automation scripts • Embedded Linux tools • API integrations • DevOps pipelines • Data-driven dashboards
 	•	⚡  Linux is home. I like turning messy logs into insights — and servers into better versions of themselves.
 
