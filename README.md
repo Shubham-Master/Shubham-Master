@@ -48,3 +48,8 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Shubham-Master?label=Followers&style=flat&color=E50914" alt="GitHub followers" />
 </p>
+
+### WakaTime — This Week's Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
