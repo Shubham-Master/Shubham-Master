@@ -1,10 +1,8 @@
-<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" height="28" alt="waving hand"></p>
+<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" height="28" alt="waving hand"> — full profile now streaming at <a href="https://www.theshubham.in/">theshubham.in</a> ▶️</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/title-reveal.svg" alt="Shubham Kumar — Cloud Platform Engineer · AI Platform Ops" width="600"></p>
 
 7+ years in DevOps and cloud infrastructure — Kubernetes, infrastructure as code, multi-cloud operations. Currently focused on production-grade AI platform ops: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it all trustworthy.
-
-🔗 [theshubham.in](https://www.theshubham.in/)
 
  	•	🌍  Based in Gurugram, Haryana
 	•	🧠  AI platform ops — RAG pipelines, LLM-based automation, FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
