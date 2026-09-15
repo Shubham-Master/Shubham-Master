@@ -36,7 +36,7 @@
 <td><a href="http://www.github.com/Shubham-Master"><img src="https://streak-stats.demolab.com?user=Shubham-Master&background=0D1117&border=0D1117&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=FFFFFF&dates=8B949E&hide_border=true" alt="Shubham-Master's GitHub streak" /></a></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><a href="https://github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=E50914&text_color=ffffff&icon_color=E50914&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a></td>
+<td colspan="2" align="center"><a href="https://github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=E50914&text_color=ffffff&icon_color=E50914&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&card_width=800" alt="Top Languages" width="100%"/></a></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-Master&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=0D1117&column=4&no-frame=true" alt="GitHub Trophies" /></td>
