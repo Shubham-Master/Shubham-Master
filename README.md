@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Kumar
-=====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Cloud Platform Engineer
------------------------
+<img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/title-reveal.svg" alt="Shubham Kumar — Cloud Platform Engineer · AI Platform Ops" width="600">
 
-I’m a backend and automation enthusiast working with Linux-based embedded systems. I’m building tooling for managing infotainment devices, firmware updates, multi-cloud workflows, and automating operational processes using Bash, Python, Go, and TypeScript.
-	
- 	•	🌍  I’m based in Gurugram
-	•	🧠  I’m learning C++, Embedded Systems, deeper Cloud Architecture & AI-Ops
-	•	🤝  I’m open to collaborating on Automation scripts • Embedded Linux tools • API integrations • DevOps pipelines • Data-driven dashboards
-	•	⚡  Linux is home. I like turning messy logs into insights — and servers into better versions of themselves.
+7+ years in DevOps and cloud infrastructure — Kubernetes, infrastructure as code, multi-cloud operations. These days I’m mostly building production AI tooling on AWS Bedrock with Claude: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it trustworthy.
+
+🔗 [cv.theshubham.in](https://cv.theshubham.in/)
+
+ 	•	🌍  Based in Gurugram, Haryana
+	•	🧠  Focused on AI Platform Operations (AWS Bedrock/Claude), FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
+	•	🤝  Open to conversations about AI platform operations, DevOps automation, FinOps, and cloud reliability at scale
+	•	⚡  DevOps-rooted, increasingly focused on AI platform operations — observable, automated, and boring in the best way
 
 
 <p align="left">
