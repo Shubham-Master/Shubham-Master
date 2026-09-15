@@ -4,12 +4,12 @@
 
 7+ years in DevOps and cloud infrastructure — Kubernetes, infrastructure as code, multi-cloud operations. Currently focused on production-grade AI platform ops: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it all trustworthy.
 
-🔗 [cv.theshubham.in](https://cv.theshubham.in/)
+🔗 [theshubham.in](https://www.theshubham.in/)
 
  	•	🌍  Based in Gurugram, Haryana
-	•	🧠  Focused on AI Platform Operations (AWS Bedrock/Claude), FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
-	•	🤝  Open to conversations about AI platform operations, DevOps automation, FinOps, and cloud reliability at scale
-	•	⚡  DevOps-rooted, increasingly focused on AI platform operations — observable, automated, and boring in the best way
+	•	🧠  AI platform ops — RAG pipelines, LLM-based automation, FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
+	•	🇪🇺  Open to Cloud/DevOps and AI Platform Ops roles in Europe
+	•	⚡  DevOps-rooted, increasingly focused on AI platform ops — observable, automated, and boring in the best way
 
 
 <p align="left">
