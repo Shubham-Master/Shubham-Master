@@ -30,11 +30,18 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<table align="center">
+<tr>
+<td><a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api?username=Shubham-Master&show_icons=true&title_color=E50914&text_color=ffffff&icon_color=E50914&bg_color=0D1117&hide_border=true" alt="Shubham-Master's GitHub stats" /></a></td>
+<td><a href="http://www.github.com/Shubham-Master"><img src="https://streak-stats.demolab.com?user=Shubham-Master&background=0D1117&border=0D1117&ring=E50914&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=FFFFFF&dates=8B949E&hide_border=true" alt="Shubham-Master's GitHub streak" /></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=E50914&text_color=ffffff&icon_color=E50914&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a></td>
+</tr>
+</table>
 
-
-<a href="http://www.github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api?username=Shubham-Master&show_icons=true&theme=radical" alt="Shubham-Master's GitHub stats" /></a>
-
-<a href="http://www.github.com/Shubham-Master"><img src="https://streak-stats.demolab.com?user=Shubham-Master&theme=radical" alt="Shubham-Master's GitHub streak" /></a>
-
-<a href="https://github.com/Shubham-Master" align="left"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shubham-Master&label=Profile%20Views&color=E50914&style=flat" alt="Profile views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Shubham-Master?label=Followers&style=flat&color=E50914" alt="GitHub followers" />
+</p>
