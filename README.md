@@ -1,13 +1,13 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/title-reveal.svg" alt="Shubham Kumar — Cloud Platform Engineer · AI Platform Ops" width="600"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/title-reveal.svg" alt="Shubham Kumar - Cloud Platform Engineer · AI Platform Ops" width="600"></p>
 
-<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" height="28" alt="waving hand"> — full profile now streaming at <a href="https://www.theshubham.in/">theshubham.in</a> <img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/play-button.svg" width="20" height="20" alt="play"></p>
+<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" height="28" alt="waving hand"> - full profile now streaming at <a href="https://www.theshubham.in/">theshubham.in</a> <img src="https://raw.githubusercontent.com/Shubham-Master/Shubham-Master/master/assets/play-button.svg" width="20" height="20" alt="play"></p>
 
-7+ years in DevOps and cloud infrastructure — Kubernetes, infrastructure as code, multi-cloud operations. Currently focused on production-grade AI platform ops: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it all trustworthy.
+7+ years in DevOps and cloud infrastructure - Kubernetes, infrastructure as code, multi-cloud operations. Currently focused on production-grade AI platform ops: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it all trustworthy.
 
  	•	🌍  Based in Gurugram, Haryana
-	•	🧠  AI platform ops — RAG pipelines, LLM-based automation, FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
+	•	🧠  AI platform ops - RAG pipelines, LLM-based automation, FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
 	•	🇪🇺  Open to Cloud/DevOps and AI Platform Ops roles in Europe
-	•	⚡  DevOps-rooted, increasingly focused on AI platform ops — observable, automated, and boring in the best way
+	•	⚡  DevOps-rooted, increasingly focused on AI platform ops - observable, automated, and boring in the best way
 
 
 <p align="left">
