@@ -38,6 +38,9 @@
 <tr>
 <td colspan="2" align="center"><a href="https://github.com/Shubham-Master"><img src="https://github-readme-stats-ten-rho-44.vercel.app/api/top-langs/?username=Shubham-Master&langs_count=10&title_color=E50914&text_color=ffffff&icon_color=E50914&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a></td>
 </tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-Master&title_color=E50914&icon_color=E50914&text_color=ffffff&bg_color=0D1117&column=4&no-frame=true" alt="GitHub Trophies" /></td>
+</tr>
 </table>
 
 <p align="center">
