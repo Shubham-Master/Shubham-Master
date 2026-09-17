@@ -54,9 +54,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 7 hrs 37 mins
 
-No activity tracked
+YAML         3 hrs 29 mins         ██████████▒░░░░░░░░░░░░░░   41.39 %
+Terraform    2 hrs 19 mins         ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Text         56 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Other        48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Markdown     27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
