@@ -5,9 +5,9 @@
 7+ years in DevOps and cloud infrastructure - Kubernetes, infrastructure as code, multi-cloud operations. Currently focused on production-grade AI platform ops: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it all trustworthy.
 
  	•	🌍  Based in Gurugram, Haryana
-	•	🧠  AI platform ops - RAG pipelines, LLM-based automation, FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
-	•	🇪🇺  Open to Cloud/DevOps and AI Platform Ops roles in Europe
-	•	⚡  DevOps-rooted, increasingly focused on AI platform ops - observable, automated, and boring in the best way
+	•	🧠  Cloud Platform Ops - Kubernetes infrastructure, FinOps, and Zero Trust IAM (Ping Identity, ForgeRock DS/IDM, OIDC/OAuth2)
+	•	🇪🇺  Open to Platform Engineering, DevOps, and IAM roles in Europe
+	•	⚡  DevOps-rooted, heavily focused on running stateful identity platforms — making infrastructure observable, automated, and boring in the best way
 
 
 <p align="left">
