@@ -54,9 +54,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 18 mins
 
-No activity tracked
+Python      48 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
+Terraform   47 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Other       37 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+YAML        22 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JSON        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
